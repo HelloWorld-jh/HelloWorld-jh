@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HelloWorld-jh
-- 👀 I’m interested in mobility platfom service
+- 👀 I’m interested in web or mobile developer
 - 🌱 I’m currently learning java, spring, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my email wnguddl96@knou.ac.kr
