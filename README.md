@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HelloWorld-jh
-- 👀 I’m interested in web or mobile developer
-- 🌱 I’m currently learning java, spring, python
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning java, spring, python, node.js, c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my email wnguddl96@knou.ac.kr
 
